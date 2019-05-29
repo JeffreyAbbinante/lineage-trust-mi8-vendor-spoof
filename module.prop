@@ -1,6 +1,6 @@
-id=template
-name=Template Module
+id=lineagetrustmi8vendorspoof
+name=Lineage Trust Mi 8 Vendor Spoof
 version=v1
 versionCode=1
-author=topjohnwu
-description=A short description
+author=jeffreyabbinante
+description=A module that spoofs the vendor security update date on a Xiaomi Mi 8 for LineageOS trust.
